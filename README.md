@@ -16,6 +16,7 @@ In this repository you'll be able to find a couple of things:
 ### Why is it here?
 
 We believe that we could be more than a Minecraft server, we believe that we can also publish (a part of) custom made content. Apart from that, we also believe that we can do this as open-source as possible. That is because we took from the community and we want to give it back!
+For more info check [the wiki](https://github.com/mythologynetwork/music/wiki "The wiki")
 
 ## Licensing
 Although we want to give back to the community, writing a complete soundtrack is quite time consuming and it costs money (the virtual instruments are very expensive), therefor we would like you to credit us if you do use our music!

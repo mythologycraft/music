@@ -1,7 +1,5 @@
 # Music
 
-[toc]
-
 ## What is this?
 
 Here you can find the custom written music for the MythologyCraft Minecraft server and the projects for said music! 

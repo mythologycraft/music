@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Here you can find the custom written music for the MythologyCraft Minecraft server and the projects for said music! 
+Here you can find the custom written music for the MythologyCraft Minecraft server and the project files for said music! 
 
 ### What can you find in here?
 
